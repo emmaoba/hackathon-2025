@@ -2,8 +2,8 @@
 This Repo will be used for Hackathon 2025 
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--hackathon-2025--emmaoba.aem.page/
+- Live: https://main--hackathon-2025--emmaoba.aem.live/
 
 ## Documentation
 
